@@ -1,4 +1,4 @@
-# Omnihub Chromium Suite 🚀
+# Omnihub Suite 🚀
 
 Bem-vindo ao repositório central de governança, conformidade e políticas de privacidade das extensões desenvolvidas para o ecossistema global **Chromium** (atendendo a navegadores como Google Chrome, Microsoft Edge, Brave, Vivaldi, Opera e demais navegadores baseados nesta arquitetura).
 
